@@ -1,3 +1,5 @@
+'''Os comentários estão todos em inglês por motivos óbvios! Traduza caso queira entender melhor o código.'''
+
 ''' Create variables to store entered values'''
 
 quest = input("Enter the type of currency you want to convert: ").strip().lower() 
